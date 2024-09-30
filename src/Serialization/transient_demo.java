@@ -4,9 +4,6 @@ import java.io.*;
 
 
 class Dogs implements Serializable {
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	int i = 1230;
 	transient int j = 2450;
